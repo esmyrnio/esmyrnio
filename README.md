@@ -1,12 +1,12 @@
 
-# About me:
+## About me:
 I am a highly-motivated software developer with a Physics background and a MSc in Computational Physics.<br>Currently I'm doing research in Astrophysics.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esmyrnio) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![BOOST](https://img.shields.io/badge/BOOST-C%2B%2B-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![STL](https://img.shields.io/badge/STL-C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,7 +25,7 @@ I am a highly-motivated software developer with a Physics background and a MSc i
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![SciPy](https://img.shields.io/badge/SciPy-AA4A44.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=esmyrnio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esmyrnio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esmyrnio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
