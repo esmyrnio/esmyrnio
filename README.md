@@ -26,7 +26,7 @@ I am a highly-motivated software developer with a Physics background and a MSc i
 ![SciPy](https://img.shields.io/badge/SciPy-AA4A44.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=esmyrnio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api?username=esmyrnio&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
