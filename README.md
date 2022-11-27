@@ -8,8 +8,8 @@ I am a highly-motivated software developer with a Physics background and a MSc i
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![BOOST](https://img.shields.io/badge/BOOST-C%2B%2B-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![STL](https://img.shields.io/badge/STL-C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![BOOST](https://img.shields.io/badge/BOOST-C%2B%2B-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-8F00FF.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
